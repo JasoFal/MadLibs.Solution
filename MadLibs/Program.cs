@@ -1,4 +1,8 @@
-namespace ProjectName
+using System.Xml.Schema;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+
+namespace MadLibs
 {
   class Program
   {
